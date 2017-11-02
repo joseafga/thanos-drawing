@@ -1,3 +1,3 @@
 # Charizord
 
-Technical drawing of the amazing robot!
+CAD drawing of the amazing robot!
