@@ -1,3 +1,4 @@
 # Charizord
 
-CAD drawing of the amazing robot!
+Robot for UNIP Assis project!
+CAD drawing of the robot.
